@@ -6,4 +6,4 @@ The .csv file was processed using related .lst file produced from data processed
 
 This code could be use for plotting variable stars light curve, just change the `hasil.csv` file from your own processing, and change the plot label for convenience.
 
-Data was taken from Bosscha Observatory with STEVia telescope. Report of the observation could be looked at `report(Indonesian).pdf` (only available at Indonesian version now)
+Data was taken from Bosscha Observatory with STEVia telescope. Report of the observation could be looked at `report(Indonesian).pdf` (only available at Indonesian version for now)
