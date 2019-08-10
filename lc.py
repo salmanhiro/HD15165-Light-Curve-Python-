@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This program was made by salmanhiro for the ease of entering graduate studies in Stanford Astrophysics program
 """
 
 import pandas as pd
